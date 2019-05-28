@@ -2,6 +2,7 @@
 @section('content') 
 <div  class="content">
         <div class="row">
+            <button type="button" class="btn btn-info">AJOUTER</button>
           <div class="col-md-12">
             <div class="card ">
               <div class="card-header">
@@ -32,7 +33,8 @@
                     <tbody>
                       <tr>
                         <td>
-                          abdou sakho
+                         ABDOU SAKHO
+
                         </td>
                         <td>
                           senegal
@@ -51,13 +53,13 @@
                       </tr>
                       <tr>
                         <td>
-                          aziz
+                          Aziz
                         </td>
                         <td>
                           senegal
                         </td>
                         <td>
-                          dakar
+                          Dakar
                         </td>
                         <td>
                           <a class="btn btn-success" > <i class="fa fa-edit"></i></div>
@@ -123,13 +125,13 @@
                       </tr>
                       <tr>
                         <td>
-                          Mason Porter
+                        AISSATOU
                         </td>
                         <td>
-                          Chile
+                          ZIGUINCHOR
                         </td>
                         <td>
-                          Gloucester
+                        OUSSOUY
                         </td>
                         <td>
                           <a class="btn btn-success" > <i class="fa fa-edit"></i></div>
@@ -141,13 +143,13 @@
                       </tr>
                       <tr>
                         <td>
-                          Jon Porter
+                          SEYDI LAMINE
                         </td>
                         <td>
-                          Portugal
+                          FRANCE
                         </td>
                         <td>
-                          Gloucester
+                          PARIS
                         </td>
                         <td>
                           <a class="btn btn-success" > <i class="fa fa-edit"></i></div>

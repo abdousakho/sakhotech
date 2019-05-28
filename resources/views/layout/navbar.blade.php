@@ -8,7 +8,7 @@
           <span class="navbar-toggler-bar bar3"></span>
         </button>
       </div>
-      <a class="navbar-brand" href="javascript:void(0)">Dashboard</a>
+      <a class="navbar-brand" href="javascript:void(0)">tableau de bord</a>
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-bar navbar-kebab"></span>
@@ -17,6 +17,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navigation">
       <ul class="navbar-nav ml-auto">
+        
+        
+        <li class="nav-item">Accueil</li>
+
+        
         <li class="search-bar input-group">
           <button class="btn btn-link" id="search-button" data-toggle="modal" data-target="#searchModal"><i class="tim-icons icon-zoom-split"></i>
             <span class="d-lg-none d-md-block">Search</span>

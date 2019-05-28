@@ -11,18 +11,20 @@
 |
 */
 
+
 Route::get('/', function () {
-    return view('bienvenue');
-});
-Route::get('/test', function () {
     return view('layout.default');
 
 });
 Route::get('/villagesmabo', function () {
-    return view('villages.index');
+    return view('villages.table');
 
 });
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('villages','VillageController');
+
+Route::get('/listeutilisateur', function () {
+    return view('bienvenue');
+});

@@ -42,7 +42,7 @@
       @section("content")
            @include("layout.content")
       @show
-      @include("layout.footer")
+      
     </div>
   </div>
   <div class="fixed-plugin">

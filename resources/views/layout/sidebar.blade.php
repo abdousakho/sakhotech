@@ -5,35 +5,40 @@
     <div class="sidebar-wrapper">
       <div class="logo">
         <a href="javascript:void(0)" class="simple-text logo-mini">
-          CT
         </a>
         <a href="javascript:void(0)" class="simple-text logo-normal">
-          forage Mabo
+          Forage Mabo
         </a>
       </div>
       <ul class="nav">
         <li class="active ">
           <a href="./dashboard.html">
             <i class="tim-icons icon-chart-pie-36"></i>
-            <p>tableau de bord</p>
+            <p>Tableau de bord</p>
           </a>
         </li>
         <li>
           <a href="./icons.html">
             <i class="tim-icons icon-atom"></i>
-            <p>liste</p>
+            <p>GESTIONS DE LA CLIENTELES</p>
           </a>
         </li>
         <li>
           <a href="./map.html">
             <i class="tim-icons icon-pin"></i>
-            <p>geolocalisaion</p>
+            <p>GESTIONNAIRES</p>
+          </a>
+        </li>
+        <li>
+          <a href="villagesmabo">
+            <i class="tim-icons icon-pin"></i>
+            <p>Villages</p>
           </a>
         </li>
         <li>
           <a href="./notifications.html">
             <i class="tim-icons icon-bell-55"></i>
-            <p>Notifications</p>
+            <p>GESTION DES FACTURES</p>
           </a>
         </li>
         <li>
